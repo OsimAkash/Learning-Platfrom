@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.home-content {
+    margin: 50px 0;
+    
+}
+
+.page-header{
+    padding: 40px 0;
+    text-align: center;
+    background: #7f9ddf;
+    color: #fff;
+    
+}
+
+/* CSS for home content */
+
+
+.courses {
+    margin: 30px 0;
+}
+
+
+.course-descriptions {
+
+    margin: 40px 0;
+
+}
+
+.course-lesson ul li {
+
+list-style: none;
+
+}
+.course-lesson ul li a:hover {
+
+color: rgb(37, 26, 238);
+text-decoration: underline;
+transition: 1s;
+
+}
+
+.lesson-details {
+
+
+    margin:  0;
+}
+
+.course-left {
+    display: block;
+    background: #f1f1f1;
+    height: 100vh;
+    padding: 10px 0;
+}
+
+.active-lesson {
+
+    color: #94b4f9;
+}
+
+.lesson-content {
+    padding: 20px 0;
+    padding-right: 30px;
+    max-width: 950px;
+}
+
+.footer {
+    background: #ccc;
+    padding: 40px 0;
+    text-align: center;
+
+
+}
